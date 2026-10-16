@@ -1,0 +1,192 @@
+[[H5ZbitroundC]]
+arch = "aarch64"
+git-tree-sha1 = "6e2b65a48c3bc8fe8a42d7bf2178a68ef45c70e6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "26ea378c7ce830ec4d7b664177101204594d2bbd67f88073bf4e5cbf86e6a603"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[H5ZbitroundC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a8a9a537c10b20f8e590acca7e86f625e130712"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "527815509080e0fef39e13d9cd8f23be65568192c871cf9c973b38f2bdd8b1bf"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aadf6e062a54d31a724409ac51d0902adf0212a6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "bb45cfce98a44bbeda3ac673cb42ae5fc1358dcf9d53eb44f333352bf51eaf4a"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "aarch64"
+git-tree-sha1 = "7bd65407ddd56fa5b302eec01d2072ff6f5f6c86"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "2fd53fd7f491a4312c93260fbefb716dfa168fd9687cb050f445c79cd9e5fd40"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5ZbitroundC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2058c24d45bd4de89070a689921a596f36fe37a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "d0599d56b85ce29163768c3e1c3da5d643ab4428383770eb6cae9ecb168eb327"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c08e87bb3f3734c74868be98893469327f2d94e1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "a7e4461833bfd4498d86db286f202b8a0f3ed3ec60e00d3e599668f8fc55a91b"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "65cd756bfcdb82720146a4574bdc87b1ad76296a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "f816f49e182063d29070aeb39b1b1cfa787c2473cc85802789f1c95c57bde6b9"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7937a9173b289dfe658595cceba6751b410933a6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "84104eeebb967cecbb552acb6c998a7e4b2744f82680a20eedf858a39bdc9524"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea1943a6c8763453b5e3dd4d54313cb0ccb3c9d0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "f80bd8cc23e710d5ae41a3c8cfe62ab0e79f5ddd1035e390e5ab612c88e05145"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7e9ec95b62f39400d9061fdf40f2157986b74c33"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "2ce22e0efc7f3f7f2f2dcfa59fbf6dcadf3235422e27be476112c08967531ecf"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7346816e9f7d8077daf6d7cf1f057eb34dd438a1"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "6d883073333247bd4b3bf93bd8edeacb56a0128899a90c76132a222b00048298"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb400f68b69ebcc98628dbcda46cfef3cd9e8382"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "a4a17efc13c53d3200846e5216ef09bf27488d8bea172c0aefeccdacfc5b737f"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e81efcb5e53a4026793c99c9718e8b686cf91b9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "ed4bd030cca34055430c5f994e9356ff22ba9e11af1d0851e0085b6cff3ed995"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.riscv64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "x86_64"
+git-tree-sha1 = "8fafb77ae29bfff30944c748841204ff4ceb40dc"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "a53e71daca2adb8a2f6ba109a0ba28cf7fe7e1a65642f2cf800bd0e7a5811177"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[H5ZbitroundC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0b0063afd2a2992e07fdf88fa6f1d0e8076907b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "879e4c1ccc6a3933d3d45b4d29b6cb3c0901367350b0dce982d54509dfdacd95"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bffa1135b3f47b5887e64cffef03f40f20cfee59"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "2e1acc61bbfa9c874f4c62a4446d16ca431db3c4b78a31b110ed3c0e7c1ce740"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[H5ZbitroundC]]
+arch = "x86_64"
+git-tree-sha1 = "d113500c7d0f836b6341f952fb33663c6f99babd"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "542668ad6decbb8a67a6d555ed664d1726371be8790517f77a04da210c0d1b26"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[H5ZbitroundC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf82daff995117efa4ff37a706d0699d6ff4c9d1"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[H5ZbitroundC.download]]
+    sha256 = "14bc3f53a03202b665a3f5dd6496816a61fbcdf53566dc9ad382a133c603386f"
+    url = "https://github.com/JuliaBinaryWrappers/H5ZbitroundC_jll.jl/releases/download/H5ZbitroundC-v2.2.0+0/H5ZbitroundC.v2.2.0.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
